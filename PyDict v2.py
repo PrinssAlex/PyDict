@@ -15,7 +15,7 @@
  # If the user entered a wrongly spelt word, it returns a word closest to the user entered word and its definition if the user desire.
  # If the word does not exist, it returns an error message which asks the user to double check the word entered. 
  # Update: Added the function that returns multiple words closest in spelling to that which the users enters. In a case where the user enters a 
- #         misspelt word or word that does not exist in the dictionary.
+ # misspelt word or word that does not exist in the dictionary.
  
 
 from difflib import get_close_matches # a library that can be used to compare string values

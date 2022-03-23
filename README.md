@@ -1,5 +1,5 @@
 
-#Python Dictionary:
+# Python Dictionary:
 
 
  A dictionary program that takes a user input word and returns its definition.
